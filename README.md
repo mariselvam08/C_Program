@@ -4,61 +4,48 @@ My Placement training programs
 RightPy.c
 Date: 14/08/2024 10:10
 Output:
-
-markdown
-Copy code
 enter number of rows: 3
 *
 **
 ***
+
 LeftPY.c
 Date: 14/08/2024 10:24
 Output:
-
-markdown
-Copy code
 enter number of rows: 3
   *
  **
 ***
+
 PY.c
 Date: 14/08/2024 11:04
 Output:
-
-markdown
-Copy code
 enter number of rows: 3
   *
  * *
 * * *
+
 DiamondPy.c
 Date: 14/08/2024 11:35
 Output:
-
-markdown
-Copy code
 enter number of rows: 3
   *
  * *
 * * *
  * *
   *
+
 RRightPy.c
 Date: 14/08/2024 11:43
 Output:
-
-markdown
-Copy code
 enter number of rows: 3
 ***
 **
 *
+
 RLeftPy.c
 Date: 14/08/2024 11:43
 Output:
-
-markdown
-Copy code
 enter number of rows: 3
 ***
  ** 
