@@ -8,7 +8,7 @@ printf("Enter number");
 scanf("%d",&r);
 for(i=0;i<=r-1;i++){
 for(j=0;j<=i;j++){
-printf("*");
+printf("* \t");
 }
 printf("\n");
 }
