@@ -39,3 +39,12 @@ enter number of rows:3
 *
 
 
+RLeftPy.c 14/08/2024 11.43
+output 
+enter number of rows:3
+***
+ ** 
+  *
+
+  
+
