@@ -14,3 +14,10 @@ enter number of rows:3
   *
  **
 ***
+
+PY.c 14/08/2024 11.04
+output 
+enter number of rows:3
+  *
+ * *
+* * *
