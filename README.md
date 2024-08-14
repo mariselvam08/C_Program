@@ -54,7 +54,7 @@ HDIAMOND.c
 Date: 14/08/2024 2:48
 Output:
 
-Enter the number5
+Enter the number4
    *
   * *
  *   *
@@ -64,6 +64,10 @@ Enter the number5
    *
 
 HPY.c
-Date: 14/08/2024 2:48
+Date: 14/08/2024 3:34
 Output:
-
+Enter the number4
+   *
+  * *
+ *   *
+* * * * 
