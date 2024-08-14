@@ -1,50 +1,65 @@
-# C_Program
+C_Program
 My Placement training programs
 
-RightPy.c 14/08/2024 10.10
-output 
-enter number of rows:3
+RightPy.c
+Date: 14/08/2024 10:10
+Output:
+
+markdown
+Copy code
+enter number of rows: 3
 *
 **
 ***
+LeftPY.c
+Date: 14/08/2024 10:24
+Output:
 
-LeftPY.c 14/08/2024 10.24
-output 
-enter number of rows:3
+markdown
+Copy code
+enter number of rows: 3
   *
  **
 ***
+PY.c
+Date: 14/08/2024 11:04
+Output:
 
-PY.c 14/08/2024 11.04
-output 
-enter number of rows:3
+markdown
+Copy code
+enter number of rows: 3
   *
  * *
 * * *
+DiamondPy.c
+Date: 14/08/2024 11:35
+Output:
 
-DiamondPy.c 14/08/2024 11.35
-output 
-enter number of rows:3
+markdown
+Copy code
+enter number of rows: 3
   *
  * *
 * * *
  * *
   *
+RRightPy.c
+Date: 14/08/2024 11:43
+Output:
 
-RRightPy.c 14/08/2024 11.43
-output 
-enter number of rows:3
+markdown
+Copy code
+enter number of rows: 3
 ***
 **
 *
+RLeftPy.c
+Date: 14/08/2024 11:43
+Output:
 
-
-RLeftPy.c 14/08/2024 11.43
-output 
-enter number of rows:3
+markdown
+Copy code
+enter number of rows: 3
 ***
  ** 
   *
-
-  
-
