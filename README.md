@@ -21,3 +21,14 @@ enter number of rows:3
   *
  * *
 * * *
+
+DiamondPy.c 14/08/2024 11.35
+output 
+enter number of rows:3
+  *
+ * *
+* * *
+ * *
+  *
+
+
