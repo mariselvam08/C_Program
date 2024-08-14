@@ -44,7 +44,7 @@ enter number of rows: 3
 *
 
 RLeftPy.c
-Date: 14/08/2024 11:43
+Date: 14/08/2024 11:48
 Output:
 enter number of rows: 3
 ***
