@@ -50,3 +50,20 @@ enter number of rows: 3
 ***
  ** 
   *
+HDIAMOND.c
+Date: 14/08/2024 2:48
+Output:
+
+Enter the number5
+   *
+  * *
+ *   *
+*     *
+ *   *
+  * *
+   *
+
+HPY.c
+Date: 14/08/2024 2:48
+Output:
+
